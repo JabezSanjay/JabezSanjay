@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="jabezsanjay.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
-[<img align="left" alt="Jabez Sanjay | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img align="left" alt="Jabez Sanjay | LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 [<img align="left" alt="Jabez Sanjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
