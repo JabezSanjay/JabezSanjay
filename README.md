@@ -30,13 +30,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Jabez's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JabezSanjay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</details>
-
-[website]: https://jabezsanjay.com
+[website]: https://jabezsanjay.tech
 [instagram]: https://www.instagram.com/jabez_vlogs/
 [linkedin]: https://www.linkedin.com/in/jabezsanjay/
