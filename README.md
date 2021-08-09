@@ -1,6 +1,6 @@
 ### Hi there, I'm Jabez Sanjay 👋
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Student, Developer and Learner!!
 
 - 🌱 I’m currently learning React Native
 - 🥅 2021 Goals: Create a full stack saas product
