@@ -31,5 +31,5 @@
 <br />
 
 [website]: https://jabezsanjay.tech
-[instagram]: https://www.instagram.com/jabez_vlogs/
+[instagram]: https://www.instagram.com/jabez_sanjay/
 [linkedin]: https://www.linkedin.com/in/jabezsanjay/
