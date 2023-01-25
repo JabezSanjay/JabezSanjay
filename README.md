@@ -3,7 +3,7 @@
 ## I'm a Developer and Learner!!
 
 - 🌱 I’m currently learning React Native
-- 🥅 2022 Goal: Create a full stack saas product
+- 🥅 2023 Goal: Create a full stack saas product
 - ⚡ Fun fact: I love to travel and make friends!
 
 ### Connect with me:
